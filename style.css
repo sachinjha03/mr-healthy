@@ -212,6 +212,8 @@ h2{
     outline: none;
     padding: 0.5rem 0.5rem;
     width: 300px;
+    background-color: white;
+    color: black;
 }
 input[type="submit"]{
     color: white;
